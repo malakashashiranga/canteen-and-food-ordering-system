@@ -1,1 +1,1 @@
-# canteen-and-food-ordering-sytem
+# canteen-and-food-ordering-system
